@@ -1,0 +1,4 @@
+streamlit==1.44.1
+streamlit-javascript==0.1.5
+streamlit-oauth==0.1.14
+streamlit-js-eval==0.1.7
