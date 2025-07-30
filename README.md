@@ -17,7 +17,7 @@ docker-compose build -d
             "assistant": {
                 "command": "python",
                 "args": [
-                    "...path/tools/claude_toolkit.py"
+                    "...path/backend/tools/claude_toolkit.py"
             ]
         }
     }
